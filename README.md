@@ -1,3 +1,10 @@
+# April the 3rd
+1. More updates on parsing XML
+2. More updates on parsing Regex
+3. Extracted tags, pythonized them
+# April the 2nd
+1. Updates on parsing XML
+2. Regex parser created
 # February the 28th
 1. Texts and meta-info (tags) uploaded.
 2. Test01 code created.
