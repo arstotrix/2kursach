@@ -1,6 +1,6 @@
-from collections import OrderedDict
+#from collections import OrderedDict
 import json
-from pprint import pprint as pp
+#from pprint import pprint as pp
 with open ('tags.tsv', encoding='utf-8') as f:
     text = f.read().split('\n')
 tags = {}
