@@ -1,3 +1,5 @@
+# April the 24th
+1. Where the fuck did the month go
 # April the 3rd
 1. More updates on parsing XML
 2. More updates on parsing Regex
