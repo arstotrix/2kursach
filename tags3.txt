@@ -1,0 +1,4 @@
+#vvb	verb present tense: 'they live'
+#vvb-x	verb present tense negative,: "aren't", "don't", 'I not how'
+#vvd	verb past tense: 'did', 'knew'
+#vvd-x	verb past tense negative: "didn't", 'she caredna to gang'

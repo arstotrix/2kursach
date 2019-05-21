@@ -18,6 +18,7 @@ for w in words[:1000]:
         i+=1
         print(word, xmlid, n, lemma, ana)
 print(i)
+
     #print(word)
 
 
