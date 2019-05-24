@@ -1,13 +1,4 @@
-# April the 24th
-1. Where the fuck did the month go
-# April the 3rd
-1. More updates on parsing XML
-2. More updates on parsing Regex
-3. Extracted and jsoned tags
-# April the 2nd
-1. Updates on parsing XML
-2. Regex parser created
-# February the 28th
-1. Texts and meta-info (tags) uploaded.
-2. Test01 code created.
-3. I extracted the body tag and stumbled upon parsing XML.
+Данный репозиторий содержит все коды, черновики и наброски, сделанные с февраля 2019 года. Самые важные коды - это:
+ - entities.py (создание БД) 
+ - (аналитические формы)
+ - (синтетические формы)
